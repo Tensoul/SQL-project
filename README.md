@@ -97,6 +97,8 @@ Ten projekt może być użyty jako:
 Ten projekt jest dostępny na licencji MIT – możesz go dowolnie wykorzystywać, modyfikować i udostępniać.
 
 
+
+
 English Version 🌍
 
 # RestaurantDB - Relational Database for a Restaurant 🍽️
